@@ -97,7 +97,7 @@ export default function PageWrapper(props) {
                   <span></span>
                 </div>
               </div>
-              <a href="index-2.html"><img className="logo" src="images/logo1.png" alt="" width="119" height="58" /></a>
+              <a href="Blockbuster"><img className="logo" src="images/logo1.png" alt="" width="119" height="58" /></a>
             </div>
             <div className="collapse navbar-collapse flex-parent" id="bs-example-navbar-collapse-1">
               <ul className="nav navbar-nav flex-child-menu menu-left">
@@ -119,8 +119,8 @@ export default function PageWrapper(props) {
                     celebrities <i className="fa fa-angle-down" aria-hidden="true"></i>
                   </a>
                   <ul className="dropdown-menu level1">
-                    <li><a href="celebritygrid01.html">celebrity grid 01</a></li>
-                    <li><a href="celebritygrid02.html">celebrity grid 02 </a></li>
+                    <li><a href="celebrity01">CELEBRITY LISTING </a></li>
+                    <li><a href="celebrity02">CELEBRITY LISTING - GRID </a></li>
                     <li><a href="celebritylist.html">celebrity list</a></li>
                     <li className="it-last"><a href="celebritysingle.html">celebrity single</a></li>
                   </ul>

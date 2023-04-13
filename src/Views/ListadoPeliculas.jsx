@@ -58,6 +58,7 @@ total={getTotalPaginas()}
 onChange={(pagina) => {
     setPaginaActual(pagina)
 }}/>
+
 </PageWrapper>
 )
 }
